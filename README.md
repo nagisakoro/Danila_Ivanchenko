@@ -1,4 +1,4 @@
-👋 Hi, i'm Danila Ivanchenko 
+👋 Hi, i'm Danila Ivanchenko <br>
 I'm from Russia 
 👀 I’m interested in frontend technologies and JavaScript ecosystem
 🌱 I’m currently learning JS and Vue.js
